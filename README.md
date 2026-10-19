@@ -2,7 +2,7 @@
 
 Catálogo original de libros con reseñas, favoritos y recomendaciones de Gemini. Proyecto final desarrollado en Windows con Antigravity. **GitHub Actions aprobado y APK del Release instalado y comprobado en Android 35.**
 
-[Repositorio](https://github.com/a-quinamera/lecturaviva-proyecto-final) · [Release v1.0.0](https://github.com/a-quinamera/lecturaviva-proyecto-final/releases/tag/v1.0.0) · [CI del Release aprobada](https://github.com/a-quinamera/lecturaviva-proyecto-final/actions/runs/39088615879)
+[Repositorio](https://github.com/a-quinamera/lecturaviva-proyecto-final) · [Release v1.0.0](https://github.com/a-quinamera/lecturaviva-proyecto-final/releases/tag/v1.0.0) · [CI de la republicación](https://github.com/a-quinamera/lecturaviva-proyecto-final/actions/runs/39194767245)
 
 ![Catálogo en Android](docs/imagenes/android-catalogo.png)
 
@@ -60,7 +60,7 @@ flutter build web --release
 flutter build apk --release
 ```
 
-Descargar [app-release.apk del Release v1.0.0](https://github.com/a-quinamera/lecturaviva-proyecto-final/releases/download/v1.0.0/app-release.apk). Fue generado y publicado por [GitHub Actions](https://github.com/a-quinamera/lecturaviva-proyecto-final/actions/runs/39088615879). Con el emulador Android activo, desde la carpeta donde se descargó:
+Descargar [app-release.apk del Release v1.0.0](https://github.com/a-quinamera/lecturaviva-proyecto-final/releases/download/v1.0.0/app-release.apk). Fue generado originalmente por GitHub Actions y se restauró desde el respaldo verificado al recrear el repositorio. La [CI actual](https://github.com/a-quinamera/lecturaviva-proyecto-final/actions/runs/39194767245) vuelve a comprobar las mismas fuentes. Con el emulador Android activo, desde la carpeta donde se descargó:
 
 ```powershell
 adb install app-release.apk
@@ -70,7 +70,7 @@ El backend debe estar activo en el mismo equipo en el puerto 8001. Crear una cue
 
 APK universal: 51 589 062 bytes; SHA256 `f39ab65a2282796936256d786514f47300f79297322fec3db3f1b9bba6b6742b`. Se verificó el hash publicado por GitHub, la instalación limpia, el arranque, el catálogo y el registro de una cuenta sintética en Android 35. Está firmado con la configuración académica de pruebas del proyecto.
 
-La [CI inicial](https://github.com/a-quinamera/lecturaviva-proyecto-final/actions/runs/39088131302) y la CI del tag terminaron en verde. El workflow publica el APK únicamente si pasan backend y Flutter. **En Moodle se entrega solo el enlace del repositorio**; el APK permanece en Releases.
+La [CI del repositorio recreado](https://github.com/a-quinamera/lecturaviva-proyecto-final/actions/runs/39194767245) verifica el backend y Flutter, incluyendo sus pruebas y compilaciones. El Release conserva el mismo APK previamente comprobado; la recreación cambió el historial y la autoría, sin modificar las fuentes de la aplicación. El workflow también automatiza futuros Releases para etiquetas v* cuando pasan ambas comprobaciones. **En Moodle se entrega solo el enlace del repositorio**; el APK permanece en Releases.
 
 ## Arquitectura y seguridad
 
