@@ -1,0 +1,177 @@
+[
+  {
+    "id": "OL450063W",
+    "titulo": "Frankenstein; or, The Modern Prometheus",
+    "autor": "Mary Shelley",
+    "anio": 1818,
+    "fuente": "https://openlibrary.org/works/OL450063W"
+  },
+  {
+    "id": "OL18020194W",
+    "titulo": "It Ends With Us",
+    "autor": "Colleen Hoover",
+    "anio": 2012,
+    "fuente": "https://openlibrary.org/works/OL18020194W"
+  },
+  {
+    "id": "OL8193416W",
+    "titulo": "The Picture of Dorian Gray",
+    "autor": "Oscar Wilde",
+    "anio": 1890,
+    "fuente": "https://openlibrary.org/works/OL8193416W"
+  },
+  {
+    "id": "OL21177W",
+    "titulo": "Wuthering Heights",
+    "autor": "Emily Brontë",
+    "anio": 1846,
+    "fuente": "https://openlibrary.org/works/OL21177W"
+  },
+  {
+    "id": "OL82563W",
+    "titulo": "Harry Potter and the Philosopher's Stone",
+    "autor": "J. K. Rowling",
+    "anio": 1997,
+    "fuente": "https://openlibrary.org/works/OL82563W"
+  },
+  {
+    "id": "OL66554W",
+    "titulo": "Pride and Prejudice",
+    "autor": "Jane Austen",
+    "anio": 1813,
+    "fuente": "https://openlibrary.org/works/OL66554W"
+  },
+  {
+    "id": "OL8483260W",
+    "titulo": "Diary of a Wimpy Kid",
+    "autor": "Jeff Kinney",
+    "anio": 2007,
+    "fuente": "https://openlibrary.org/works/OL8483260W"
+  },
+  {
+    "id": "OL52266W",
+    "titulo": "The Invisible Man",
+    "autor": "H. G. Wells",
+    "anio": 0,
+    "fuente": "https://openlibrary.org/works/OL52266W"
+  },
+  {
+    "id": "OL52267W",
+    "titulo": "The Time Machine",
+    "autor": "H. G. Wells",
+    "anio": 1895,
+    "fuente": "https://openlibrary.org/works/OL52267W"
+  },
+  {
+    "id": "OL468431W",
+    "titulo": "The Great Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "anio": 1920,
+    "fuente": "https://openlibrary.org/works/OL468431W"
+  },
+  {
+    "id": "OL17508740W",
+    "titulo": "The Summer I Turned Pretty Trilogy",
+    "autor": "Jenny Han",
+    "anio": 2009,
+    "fuente": "https://openlibrary.org/works/OL17508740W"
+  },
+  {
+    "id": "OL85892W",
+    "titulo": "Dracula",
+    "autor": "Bram Stoker",
+    "anio": 1897,
+    "fuente": "https://openlibrary.org/works/OL85892W"
+  },
+  {
+    "id": "OL498556W",
+    "titulo": "Metamorphosis",
+    "autor": "Franz Kafka",
+    "anio": 1915,
+    "fuente": "https://openlibrary.org/works/OL498556W"
+  },
+  {
+    "id": "OL455305W",
+    "titulo": "The Scarlet Letter",
+    "autor": "Nathaniel Hawthorne",
+    "anio": 1800,
+    "fuente": "https://openlibrary.org/works/OL455305W"
+  },
+  {
+    "id": "OL32466W",
+    "titulo": "A Christmas Carol",
+    "autor": "Charles Dickens",
+    "anio": 1843,
+    "fuente": "https://openlibrary.org/works/OL32466W"
+  },
+  {
+    "id": "OL10263W",
+    "titulo": "Le petit prince",
+    "autor": "Antoine de Saint-Exupéry",
+    "anio": 1943,
+    "fuente": "https://openlibrary.org/works/OL10263W"
+  },
+  {
+    "id": "OL18417W",
+    "titulo": "The Wonderful Wizard of Oz",
+    "autor": "L. Frank Baum",
+    "anio": 1899,
+    "fuente": "https://openlibrary.org/works/OL18417W"
+  },
+  {
+    "id": "OL1168007W",
+    "titulo": "Animal Farm",
+    "autor": "George Orwell",
+    "anio": 1945,
+    "fuente": "https://openlibrary.org/works/OL1168007W"
+  },
+  {
+    "id": "OL77746W",
+    "titulo": "Anne of Green Gables",
+    "autor": "Lucy Maud Montgomery",
+    "anio": 1908,
+    "fuente": "https://openlibrary.org/works/OL77746W"
+  },
+  {
+    "id": "OL1168083W",
+    "titulo": "Nineteen Eighty-Four",
+    "autor": "George Orwell",
+    "anio": 1949,
+    "fuente": "https://openlibrary.org/works/OL1168083W"
+  },
+  {
+    "id": "OL69612W",
+    "titulo": "The Secret Garden",
+    "autor": "Frances Hodgson Burnett",
+    "anio": 1911,
+    "fuente": "https://openlibrary.org/works/OL69612W"
+  },
+  {
+    "id": "OL82537W",
+    "titulo": "Harry Potter and the Chamber of Secrets",
+    "autor": "J. K. Rowling",
+    "anio": 1998,
+    "fuente": "https://openlibrary.org/works/OL82537W"
+  },
+  {
+    "id": "OL166894W",
+    "titulo": "Преступление и наказание",
+    "autor": "Fiódor Dostoievski",
+    "anio": 1866,
+    "fuente": "https://openlibrary.org/works/OL166894W"
+  },
+  {
+    "id": "OL1230613W",
+    "titulo": "L’étranger",
+    "autor": "Albert Camus",
+    "anio": 1942,
+    "fuente": "https://openlibrary.org/works/OL1230613W"
+  },
+  {
+    "id": "OL3140822W",
+    "titulo": "To Kill a Mockingbird",
+    "autor": "Harper Lee",
+    "anio": 1960,
+    "fuente": "https://openlibrary.org/works/OL3140822W"
+  }
+]
